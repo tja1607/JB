@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Effra-Bold",
-              "size": 40
+              "size": 48
             }
           },
           "paragraphStyle": {
@@ -27,18 +27,17 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "H1 - Mobile"
+    "string": "H1 - Desktop"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "1764CDEA-3AC7-4CDC-8449-9B38232EABAB",
+  "do_objectID": "50F94DB6-799E-4501-B07E-1585FEA358B2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3A6C7A13-D889-4D61-B83A-5DC2E22FF2B9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,31 +48,30 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "50A8D763-A9E1-47EB-8FF4-D7811198AC40",
-    "height": 47,
-    "width": 202,
-    "x": 524,
-    "y": 122
+    "height": 57,
+    "width": 282,
+    "x": 6,
+    "y": 0
   },
-  "glyphBounds": "{{2, 10}, {199, 28}}",
+  "glyphBounds": "{{3, 12}, {278, 43}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "H1 - Mobile",
-  "nameIsFixed": false,
+  "name": "H1",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9B5FE883-2FD5-449A-AFAE-AB253DF5EE04",
+    "do_objectID": "72933236-6800-42EB-9CA8-AFF6327EDDBD",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "6E1EFFAF-1CC1-4E5D-8BE9-EAF5A1485A59",
+    "sharedObjectID": "8EEA593B-F644-4A82-9BC7-B59BA61A00D3",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -89,7 +87,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Effra-Bold",
-            "size": 40
+            "size": 48
           }
         },
         "paragraphStyle": {

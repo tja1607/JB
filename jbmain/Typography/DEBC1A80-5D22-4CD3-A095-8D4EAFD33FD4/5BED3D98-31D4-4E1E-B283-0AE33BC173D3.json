@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Effra-Bold",
-              "size": 32
+              "name": "Effra-Regular",
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -27,18 +27,18 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "H2 - Desktop"
+    "string": ".text--medium"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "BD09AB36-2967-4F2A-9589-A984036DAEC8",
+  "do_objectID": "5BED3D98-31D4-4E1E-B283-0AE33BC173D3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0B46321E-C766-4F44-8B74-222786A8D2EC",
+    "do_objectID": "061B66A9-C718-4760-8411-9EDA64D9B85F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,20 +49,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3ECA4937-3908-4696-93D6-362276FC2E1B",
-    "height": 38,
-    "width": 188,
-    "x": 185,
-    "y": 171
+    "do_objectID": "4A5A8B55-FCEA-43E2-923D-43525D7C13CF",
+    "height": 24,
+    "width": 128,
+    "x": 2,
+    "y": 400
   },
-  "glyphBounds": "{{2, 8}, {185, 29}}",
+  "glyphBounds": "{{1, 5}, {125, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "H2 - Desktop",
+  "name": ".text--medium",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -70,10 +70,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "ABEF7D3A-6EF8-4E63-9CDE-11F0F4239AA4",
+    "do_objectID": "66E226FF-EDEE-4A3B-8BAA-09A66AEBBB83",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "D5AD8376-5EE0-4D98-8A4D-96CF21C5C76E",
+    "sharedObjectID": "2175AD0E-032E-42DB-AE7D-C850660F438C",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -88,8 +88,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Effra-Bold",
-            "size": 32
+            "name": "Effra-Regular",
+            "size": 20
           }
         },
         "paragraphStyle": {
